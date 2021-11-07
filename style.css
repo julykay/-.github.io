@@ -1,0 +1,97 @@
+div{
+	margin-right: 300px;
+	margin-left: 200px;
+	margin-top: 40px;
+	color: #f9f0f0;
+}
+
+
+}
+.head{
+	margin-bottom: 60px;
+	margin-left: 200px;
+}
+p{
+	
+	color: black;
+	color: #3B3F43;
+    position: relative;
+    font-size: 20px;
+    margin-top: 50px;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 300;
+    padding-left: 152px;
+    
+}
+a{
+	color: black;
+	color: #3B3F43;
+    position: relative;
+    font-size: 20px;
+    margin-top: 25px;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 400;
+    padding-left: 152px;
+	
+}
+h2{
+	
+	color: black;
+	color: #f34343;
+    position: relative;
+    font-size: 40px;
+    margin-top: 70px;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 650;
+    line-height: 140%;
+    padding-left: 172px;
+    
+}
+h1{
+	
+	color: black;
+	color: #3B3F43;
+    position: relative;
+    font-size: 40px;
+    margin-top: 50px;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 650;
+    line-height: 140%;
+    padding-left: 172px;
+    
+}
+span2{
+	font-family: Inter;
+	color: #f34343;
+    position: relative;
+    font-size: 25px;
+    margin-top: 100px;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 300;
+    padding-left: 50px;
+    margin-bottom: 48px;
+}
+span{
+	font-family: Inter;
+	color: #f34343;
+    position: relative;
+    font-size: 48px;
+    margin-top: 100px;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 800;
+    line-height: 140%;
+    padding-left: 172px;
+    margin-bottom: 48px;
+}
+.jss2{
+	margin-right: 50px;
+	margin-top: 40px;
+}
+.jss3{
+	margin-right: 150px;
+	margin-top: 40px;
+}
+.jss4{
+	margin-right: 250px;
+	margin-top: 40px;
+}
